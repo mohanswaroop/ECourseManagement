@@ -1,0 +1,16 @@
+footer {
+    position: fixed;
+    height: 150px;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #999;
+}
+
+card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+    min-width: 1px;
+}
